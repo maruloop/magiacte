@@ -98,27 +98,27 @@ Both sides are calculated simultaneously.
 
 ## Phase 1: CUI Prototype
 
-* [ ] Define player structure
-* [ ] Define 6 prototype spells
-* [ ] Implement cycle processing
-* [ ] Implement interference (A/C differential logic)
-* [ ] Implement field mana scatter
-* [ ] Implement counter siphon
-* [ ] Implement field mana decay
-* [ ] Implement self mana regeneration
-* [ ] Implement battle log output
-* [ ] Implement win condition (HP <= 0)
+* [x] Define player structure
+* [x] Define 6 prototype spells
+* [x] Implement cycle processing
+* [x] Implement interference (A/C differential logic)
+* [x] Implement field mana scatter
+* [x] Implement counter siphon
+* [x] Implement field mana decay
+* [x] Implement self mana regeneration
+* [x] Implement battle log output
+* [x] Implement win condition (HP <= 0)
 
 ---
 
 ## Phase 2: Balance Validation
 
-* [ ] Decide A/C range (1–5 recommended)
-* [ ] Tune cost vs A/C ratio
-* [ ] Tune siphon multiplier
-* [ ] Tune decay rate
-* [ ] Tune regen amount
-* [ ] Test anti-turtle effectiveness
+* [x] Decide A/C range (1–5 recommended)
+* [x] Tune cost vs A/C ratio
+* [x] Tune siphon multiplier
+* [x] Tune decay rate
+* [x] Tune regen amount
+* [x] Test anti-turtle effectiveness
 
 ---
 
@@ -159,3 +159,29 @@ Both sides are calculated simultaneously.
 * Attack → future advantage (opponent field mana)
 * Counter → present advantage (self field mana)
 * Start with CUI prototype
+
+## Confirmed Parameters (Phase 1 & 2)
+
+| Parameter | Value |
+|-----------|-------|
+| Starting HP | 20 |
+| Starting self mana | 0 |
+| Starting field mana | 0 |
+| Self mana regen (per cycle) | +2 |
+| Field mana decay (per cycle) | −20% |
+| Counter siphon efficiency | 70% |
+| Perfect cancel bonus | +2 field mana (defender) |
+| Field mana usable for spell cost | Yes (self mana spent first) |
+
+## Prototype Spell Sheet
+
+| Name | A | C | Cost | Kind |
+|------|---|---|------|------|
+| Swift Strike | 2 | 1 | 1 | attack |
+| Fireball | 4 | 1 | 3 | attack |
+| Thunder Bolt | 5 | 2 | 4 | attack |
+| Dodge | 1 | 2 | 1 | defence |
+| Iron Wall | 1 | 4 | 2 | defence |
+| Mirror Field | 2 | 5 | 3 | defence |
+
+Perfect-cancel pairs: Swift Strike↔Dodge (A/C=2), Fireball↔Iron Wall (A/C=4), Thunder Bolt↔Mirror Field (A/C=5)
