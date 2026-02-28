@@ -1,0 +1,2 @@
+# magiacte
+A TCG
