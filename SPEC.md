@@ -9,6 +9,7 @@
   * Interference
   * Cancellation (Counter)
   * Mana circulation
+* Pre-match Stance declaration (see [STANCE.md](STANCE.md))
 * Title: **MAGIACTE**
 * Tone: Chuunibyou / Arcane / Competitive-ready
 

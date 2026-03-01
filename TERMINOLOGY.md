@@ -99,6 +99,31 @@ After roughly three Eras a spell may become unusable outside Rod reconstruction.
 
 ---
 
+## Stance System
+
+**Stance**
+A philosophical declaration made before each match. Publicly visible, freely changeable between matches, non-locking. Provides light conditional bonuses aligned with a playstyle. Does not create automatic win/loss matchups — creates slopes, not walls.
+
+**Resonance**
+The amplification effect that occurs when a Stance's bonus condition aligns with the current field state, Era, or spell structure. Situational, not permanent.
+
+**Circulation Dominion** 🜄
+Default stance. Balanced mana flow and field control. Slight bonus to siphon efficiency and field-advantage maintenance.
+
+**Efficiency Compression** 🜆
+Aggro stance. Short-cycle tempo and cost compression. Slight bonus to low-cost spell efficiency and early-cycle pressure.
+
+**Future Scatter** 🜃
+Control stance. Invests into opponent field for delayed gain. Slight bonus to scatter magnitude and deferred field imbalance payoff.
+
+**Precision Interference** 🜅
+Advanced stance. Differential mastery and perfect timing. Slight bonus on near-perfect or perfect interference outcomes.
+
+**Structural Devotion** 🜇
+Research stance. High-structure spell execution. Slight scaling bonus from complex spell structures and coherent Parts interaction.
+
+---
+
 ## Spell Classification
 
 **Attack Spell**
