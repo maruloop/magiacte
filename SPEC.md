@@ -88,9 +88,9 @@ Both sides are calculated simultaneously.
 ## 7. Future Input Systems (Not in CUI Prototype)
 
 * Grimoire (Book)
-* Vox (Voice casting)
-* Sigil (Drawing-based creation)
-* Arca (Card instant spells)
+* Chant (Voice casting)
+* Arcana (Card instant spells)
+* Rod (Creation and research; spells drawn as Sigils)
 
 ---
 
