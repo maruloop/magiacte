@@ -54,14 +54,14 @@ Card-based casting system. Instant activation, compact format. Small cost ceilin
 **Grimoire**
 Book-based casting system. Structured and stable. Medium cost ceiling.
 
-**Sigil**
-Drawing-based creation system. Spell parameters are derived via shape feature extraction. Medium cost ceiling.
-
 **Chant**
 Voice-based casting system. Skill-based compression. Medium–High cost ceiling.
 
 **Rod**
-Creation and research casting system. No inherent cost ceiling. Used to invent new spells (TheOrigin).
+Creation and research casting system. No inherent cost ceiling. Used to invent new spells (TheOrigin). Spells are created by drawing Sigils.
+
+**Sigil**
+A drawn shape produced by Rod during spell creation. Spell parameters are derived from the Sigil's form via shape feature extraction. Sigil is the input method of Rod, not a standalone casting system.
 
 ---
 

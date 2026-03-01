@@ -89,9 +89,8 @@ Both sides are calculated simultaneously.
 
 * Grimoire (Book)
 * Chant (Voice casting)
-* Sigil (Drawing-based creation)
 * Arcana (Card instant spells)
-* Rod (Creation and research)
+* Rod (Creation and research; spells drawn as Sigils)
 
 ---
 

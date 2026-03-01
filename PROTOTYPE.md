@@ -158,7 +158,7 @@ their attack against C = 0 (full exposure).
 
 ## Out of Scope for Prototype
 
-- Grimoire / Chant / Sigil / Arcana input systems (Phase 4)
+- Grimoire / Chant / Arcana / Rod (Sigil) input systems (Phase 4)
 - Graphical UI, animations (Phase 3)
 - Online sync, matchmaking (Phase 5)
 - Self mana bonus on successful attack (deferred — set to 0 for now)
