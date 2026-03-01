@@ -163,6 +163,64 @@ Both sides are calculated simultaneously.
 
 ---
 
+## Phase 6: Mobile UI Adaptation
+
+* [ ] Select mobile framework (Unity / Godot / Flutter)
+* [ ] Touch-friendly spell selection (tap / swipe)
+* [ ] Responsive layout for phone screen sizes (portrait & landscape)
+* [ ] Mana bar and field mana visual redesign for small screens
+* [ ] Cycle countdown timer display on mobile
+* [ ] Haptic feedback on hit / counter / perfect cancel
+
+---
+
+## Phase 7: Mobile Feature Completion
+
+* [ ] Sigil input via touchscreen drawing
+* [ ] Arca card tap input
+* [ ] Sound effects (cast, hit, counter, perfect cancel)
+* [ ] Background music
+* [ ] Tutorial / onboarding flow
+* [ ] Settings screen (volume, language)
+* [ ] Pause / forfeit in-match
+
+---
+
+## Phase 8: Platform Build & Internal Testing
+
+* [ ] iOS build setup (Xcode, signing, provisioning)
+* [ ] Android build setup (Gradle, keystore)
+* [ ] Device compatibility testing (multiple screen sizes)
+* [ ] Performance profiling & optimization
+* [ ] Crash reporting integration
+* [ ] Internal playtesting (TestFlight / Play Console internal track)
+
+---
+
+## Phase 9: Store Submission Preparation
+
+* [ ] App icon (1024×1024 iOS, adaptive icon Android)
+* [ ] Store screenshots (iPhone, iPad, Android phone/tablet)
+* [ ] Short & long store descriptions (EN + JP minimum)
+* [ ] Privacy policy page (required by both stores)
+* [ ] Age rating questionnaire
+* [ ] App Store Connect app record created
+* [ ] Google Play Console app record created
+
+---
+
+## Phase 10: Release
+
+* [ ] Closed beta (TestFlight external / Play Console closed testing)
+* [ ] Bug fixes from beta feedback
+* [ ] Open beta (optional)
+* [ ] App Store review submission
+* [ ] Google Play review submission
+* [ ] Release date set & phased rollout configured
+* [ ] Launch announcement
+
+---
+
 # Current Decisions
 
 * Title fixed: MAGIACTE
