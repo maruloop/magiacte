@@ -122,6 +122,18 @@ Both sides are calculated simultaneously.
 
 ---
 
+## Phase 2.5: Demo Graphics (Pre-Implementation)
+
+> Create visual materials to communicate the game concept before UI implementation begins.
+
+* [ ] Design key game moment storyboard (e.g., spell clash, perfect cancel, mana scatter)
+* [ ] Create static concept images / illustrations of gameplay screen layout
+* [ ] Record or produce a demo video showing simulated gameplay flow
+* [ ] Add voiceover or text captions explaining core mechanics in the video
+* [ ] Publish demo video / images for feedback before Phase 3 begins
+
+---
+
 ## Phase 3: UI Prototype
 
 * [ ] Mana bar UI
