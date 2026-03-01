@@ -48,25 +48,20 @@ Field Mana transferred to the defender's own side as a result of a COUNTER (at 7
 
 ## Casting Systems
 
-> ⚠️ **Inconsistency note:** The four input systems are named differently across documents.
-> SPEC.md §7 and PROTOTYPE.md list: **Grimoire, Vox, Sigil, Arca**.
-> CIVILIZATION.md lists: **Card, Grimoire, Vox (Chant), Rod** — omitting Sigil and using "Card" instead of "Arca".
-> Rod is absent from SPEC.md's list. These need to be reconciled.
-
-**Card** *(also called Arca in SPEC.md and PROTOTYPE.md)*
-Instant activation casting system. Compact format. Small cost ceiling.
+**Arcana**
+Card-based casting system. Instant activation, compact format. Small cost ceiling.
 
 **Grimoire**
 Book-based casting system. Structured and stable. Medium cost ceiling.
 
-**Vox** *(also called Chant in CIVILIZATION.md)*
+**Sigil**
+Drawing-based creation system. Spell parameters are derived via shape feature extraction. Medium cost ceiling.
+
+**Chant**
 Voice-based casting system. Skill-based compression. Medium–High cost ceiling.
 
-**Sigil**
-Drawing-based creation system. Spell parameters are derived via shape feature extraction. Listed in SPEC.md and PROTOTYPE.md; absent from CIVILIZATION.md.
-
 **Rod**
-Creation and research casting system. No inherent cost ceiling. Used to invent new spells (TheOrigin). Not listed in SPEC.md's input systems section.
+Creation and research casting system. No inherent cost ceiling. Used to invent new spells (TheOrigin).
 
 ---
 

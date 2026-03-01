@@ -8,9 +8,10 @@ Each spell handling system has a maximum cost ceiling.
 
 | System         | Cost Ceiling | Role                               |
 | -------------- | ------------ | ---------------------------------- |
-| 🃏 Card        | Small        | Instant activation, compact format |
+| 🃏 Arcana      | Small        | Instant activation, compact format |
 | 📖 Grimoire    | Medium       | Structured and stable              |
-| 🎙 Vox (Chant) | Medium–High  | Skill-based compression            |
+| ✍️ Sigil       | Medium       | Drawing-based creation             |
+| 🎙 Chant       | Medium–High  | Skill-based compression            |
 | 🪄 Rod         | Unlimited    | Creation and research              |
 
 Only Rod has no inherent upper cost limit.
